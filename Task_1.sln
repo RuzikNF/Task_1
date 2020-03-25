@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberWriter", "NumberWriter\NumberWriter.csproj", "{0047B5AE-883F-495D-BE83-FC50C43A1AD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberReader", "NumberReader\NumberReader.csproj", "{BC1D43F0-7A3D-4E69-BBAC-C1169634DB62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0047B5AE-883F-495D-BE83-FC50C43A1AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0047B5AE-883F-495D-BE83-FC50C43A1AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0047B5AE-883F-495D-BE83-FC50C43A1AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0047B5AE-883F-495D-BE83-FC50C43A1AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1D43F0-7A3D-4E69-BBAC-C1169634DB62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1D43F0-7A3D-4E69-BBAC-C1169634DB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1D43F0-7A3D-4E69-BBAC-C1169634DB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1D43F0-7A3D-4E69-BBAC-C1169634DB62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32542647-F066-45A5-B62C-06A27E2A685A}
+	EndGlobalSection
+EndGlobal
